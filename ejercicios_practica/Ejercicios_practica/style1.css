@@ -1,0 +1,15 @@
+.cajas {
+    display: flex;
+    padding: 50px;
+    margin: 50px;
+    flex-wrap: wrap;
+}
+
+.cajas div{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(167, 154, 154);
+    margin: 10px;
+    text-align: center;
+    font-size: 30px
+}
